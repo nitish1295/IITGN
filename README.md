@@ -6,9 +6,9 @@ This project is part of the screening process to work on AI/ML projects under gu
 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/MultivariateNormal.png/330px-MultivariateNormal.png">.
 
-    The plot must include intractive sliders using which users can vary the parameters for the distribution. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nitish1295/IITGN.git/master?filepath=Bivariate_Normal_Distribution.ipynb)
+    The plot must include intractive sliders using which users can vary the parameters for the distribution. Kindly run the notebook at [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nitish1295/IITGN.git/master?filepath=Bivariate_Normal_Distribution.ipynb)
     
-2. Sampling from MVN :white_check_mark: - Write a sampling method from scratch, the sampling method must produce samples from a Multivariate Normal Distribution based on the randomly generated mean and covariance matrix. The method must work for any number of dimensions and you are not allowed to use any default libraries to generate a normal distribution.[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_omE5a9EWDLLlHDQLgZdL65earF23Qu3?usp=sharing)
+2. Sampling from MVN :white_check_mark: - Write a sampling method from scratch, the sampling method must produce samples from a Multivariate Normal Distribution based on the randomly generated mean and covariance matrix. The method must work for any number of dimensions and you are not allowed to use any default libraries to generate a normal distribution. Kindly run the notebook at [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_omE5a9EWDLLlHDQLgZdL65earF23Qu3?usp=sharing)
 
 3. Implement a Neural Network from Scratch :negative_squared_cross_mark: - Write a neural network from scratch which works with MNIST data set. The network must optimize itself using gradient descent which is written from scratch. Finally plot graphs for train and test and evaluate the model based on different classification metrics
 
